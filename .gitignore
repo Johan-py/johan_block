@@ -66,3 +66,9 @@ bun.lockb
 
 # Generated assets (optional)
 # public/generated/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
